@@ -1,0 +1,15 @@
+Objective:
+Develop a Java application that integrates image and PDF processing. This project will utilize Maven for managing dependencies and Git for version control. The final code should be hosted on GitHub.
+1. Project Requirements:
+Allow users to input a short signature (2 or 3 characters).
+Implement functionality to overlay this signature onto pre-stored stamp images (stamps) included in your project resources.
+Include an option for users to specify the location of a PDF file. The program will then place the signature stamp in the bottom left corner of the PDF, creating a new file version with the added stamp.
+2. Research and Integration:
+Research and integrate Java libraries suitable for image and PDF processing from the Maven Repository.
+Ensure the chosen libraries are compatible with your project requirements.
+3. Development and Version Control:
+Use Git for version control, making regular commits with clear descriptions of changes.
+4. Final Submission:
+Create a new repository in your GitHub account.
+Push your completed project to this GitHub repository.
+Submit the GitHub repository link via Google Classroom.
